@@ -1,0 +1,11 @@
+* * * * * * * * * * * * * * * *
+* * SCHOOL SYSTEM * *
+* * * * * * * * * * * * * * * *
+
+----ACCESS---- 
+
+USUARIO: admin
+PASSWORD: admin
+
+USUARIO: usuario
+PASSWORD: usuario
